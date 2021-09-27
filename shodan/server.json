@@ -1,0 +1,7 @@
+[
+    {
+        "name":"SQ-WEBCAM",
+        "url": "https://www.shodan.io/search?query=Server%3A+SQ-WEBCAM",
+        "query": "Server: SQ-WEBCAM"
+    },
+    {}]

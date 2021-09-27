@@ -1,0 +1,22 @@
+[
+    {
+        "name":"dvr1614n web-cam httpd",
+        "url": "https://www.shodan.io/search?query=product%3A%22dvr1614n+web-cam+httpd%22",
+        "query": "product:\"dvr1614n web-cam httpd\""
+    },
+    {
+        "name":"Apache httpd",
+        "url": "https://www.shodan.io/search?query=product%3A%22Apache+httpd%22",
+        "query": "product:\"Apache httpd\""
+    },    
+    {
+        "name":"lighttpd",
+        "url": "https://www.shodan.io/search?query=product%3A%22lighttpd%22",
+        "query": "product:\"lighttpd\""
+    },
+    {
+        "name":"lighttpd 1.4.39",
+        "url": "https://www.shodan.io/search?query=product%3A%22lighttpd%22+version%3A%221.4.39%22",
+        "query": "product:\"lighttpd\" version:\"1.4.39\""
+    } 
+]
