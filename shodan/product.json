@@ -18,5 +18,10 @@
         "name":"lighttpd 1.4.39",
         "url": "https://www.shodan.io/search?query=product%3A%22lighttpd%22+version%3A%221.4.39%22",
         "query": "product:\"lighttpd\" version:\"1.4.39\""
-    } 
+    },
+    {
+        "name":"lighttpd 1.4.39-devel-csw-1.4.39",
+        "url": "https://www.shodan.io/search?query=product%3A%22lighttpd%22+version%3A%221.4.39-devel-csw-1.4.39%22",
+        "query": "product:\"lighttpd\" version:\"1.4.39-devel-csw-1.4.39\""
+    }
 ]

@@ -1,0 +1,60 @@
+[
+    {
+        "name":"Erlangen",
+        "url": "https://www.shodan.io/search?query=org%3A%22Erlangen%22",
+        "query": "org:\"Erlangen\""
+    },
+    {
+        "name":"Captain's Cove",
+        "url": "https://www.shodan.io/search?query=org%3A%22Captain%27s+Cove%22+http.favicon.hash%3A-73187724",
+        "query": "org:\"Captain's Cove\"",
+        "http_favicon_hash": "http.favicon.hash:-73187724"
+    },
+    {
+        "name":"Allo Communications LLC",
+        "url": "https://www.shodan.io/search?query=org%3A%22Allo+Communications+LLC%22",
+        "query": "org:\"Allo Communications LLC\""
+    },
+    {
+        "name":"Comcast Cable Communications, LLC",
+        "url": "https://www.shodan.io/search?query=org%3A%22Comcast+Cable+Communications%2C+LLC%22",
+        "query": "org:\"Comcast Cable Communications, LLC\""
+    }, 
+    {
+        "name":"New Wave Communications",
+        "url": "https://www.shodan.io/search?query=org%3A%22New+Wave+Communications%22",
+        "query": "org:\"New Wave Communications\""
+    },
+    {
+        "name":"Mobile Broadband Service",
+        "url": "https://www.shodan.io/search?query=org%3A%22Mobile+Broadband+Service%22",
+        "query": "org:\"Mobile Broadband Service\""
+    },
+    {
+        "name":"Korea Telecom",
+        "url": "https://www.shodan.io/search?query=org%3A%22Korea+Telecom%22",
+        "query": "org:\"Korea Telecom\""
+    },
+    {
+        "name":"Atlantic Broadband Finance, LLC",
+        "url": "https://www.shodan.io/search?query=org%3A%22Atlantic+Broadband+Finance%2C+LLC%22",
+        "query": "org:\"Atlantic Broadband Finance, LLC\""
+    },
+    {
+        "name":"BT Infrastructure Layer",
+        "url": "https://www.shodan.io/search?query=org%3A%22BT+Infrastructure+Layer%22",
+        "query": "org:\"BT Infrastructure Layer\""
+    },
+    {
+        "name":"ENTANET International Limited",
+        "url": "https://www.shodan.io/search?query=org%3A%22ENTANET+International+Limited%22",
+        "query": "org:\"ENTANET International Limited\""
+    },
+    {
+        "name":"FTIP004089377 EUROLOOS LTD",
+        "url": "https://www.shodan.io/search?query=org%3A%22FTIP004089377+EUROLOOS+LTD%22",
+        "query": "org:\"FTIP004089377 EUROLOOS LTD\""
+    }
+]
+
+
