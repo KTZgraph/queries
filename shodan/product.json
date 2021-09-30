@@ -23,5 +23,20 @@
         "name":"lighttpd 1.4.39-devel-csw-1.4.39",
         "url": "https://www.shodan.io/search?query=product%3A%22lighttpd%22+version%3A%221.4.39-devel-csw-1.4.39%22",
         "query": "product:\"lighttpd\" version:\"1.4.39-devel-csw-1.4.39\""
+    },
+    {
+        "name":"Microsoft RPC Endpoint Mapper",
+        "url": "https://www.shodan.io/search?query=product%3A%22Microsoft+RPC+Endpoint+Mapper%22",
+        "query": "product:\"Microsoft RPC Endpoint Mapper\""
+    },
+    {
+        "name":"ProFTPD",
+        "url": "https://www.shodan.io/search?query=product%3A%22ProFTPD%22",
+        "query": "product:\"ProFTPD\""
+    },
+    {
+        "name":"Remote Desktop Protocol",
+        "url": "https://www.shodan.io/search?query=product%3A%22Remote+Desktop+Protocol%22",
+        "query": "product:\"Remote Desktop Protocol\""
     }
 ]
